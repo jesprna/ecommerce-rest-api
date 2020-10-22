@@ -1,0 +1,12 @@
+_HiStOrY_V2_
+Schema::drop('products')
+Schema::drop('products');
+exit
+Schema::drop('products')
+exit
+Schema::drop('products')
+exit
+Schema::drop('products')
+exit
+Schema::drop('transactions')
+exit
