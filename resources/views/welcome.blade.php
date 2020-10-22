@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    This is the main page!.
+                    @include('features')
                 </div>
             </div>
         </div>
